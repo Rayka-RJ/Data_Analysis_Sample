@@ -29,3 +29,5 @@ Project Highlights:
 - 数据分析：数据预处理、特征工程、建模分析等一系列技能应用
 - 跨学科经验：结合交通工程、城市规划和数据科学
 - 精美可视化：采用地图、热力图、时序图等多种图表，清晰呈现数据趋势和空间分布
+
+![image](https://github.com/user-attachments/assets/b29f7df1-c262-45db-9146-1e4ddcef8a5b)
